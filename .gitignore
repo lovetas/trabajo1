@@ -1,0 +1,5 @@
+version1.py
+.env
+folder_incluir/config.py
+folder_no_incluir/
+version2.py
